@@ -8,8 +8,9 @@ Nintendo Entertainment System games on the HiBy R1 and R3 Pro II, as an
 
 The game fills the top of the screen and an on-screen pad is below it: a D-pad, A and B,
 SELECT and START, and SAVE, LOAD and EXIT keys. SAVE and LOAD keep one save state per game.
-EXIT has to be held for a moment, so a thumb passing over it cannot end the game. Battery saves
-are written to `Saves/NES/<game>.srm` on the card, and again within twenty seconds of any change.
+EXIT takes two taps (the first turns it into SURE?), so a thumb passing over it cannot end the game. A tap
+on the picture shows or hides an FPS counter. Battery saves are written to `Saves/NES/<game>.srm` on the card,
+and again within twenty seconds of any change.
 
 ## Installing
 
